@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Olá devs 👋
 
 Estou começando no mundo da programação
