@@ -10,7 +10,6 @@
 </div>
 
 ---
-
 ## 📊 Minhas estatísticas
 
 <div align="center">
